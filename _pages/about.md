@@ -52,8 +52,6 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 </div>
 </div>
 
-<h1 style="border-top: none; margin-top: 0; padding-top: 10px;">🚧 Research Projects</h1>
-
 - **Supply Chain Misconduct & Governance (Master's Thesis)**: Investigated the governance effect of CSRC random inspections on supply chain misconduct contagion using a sample of A-share listed companies from 2013 to 2023.
 - **Quantitative Analysis in Finance**: Leveraged **Stata** and **Python** to conduct rigorous empirical analysis on corporate governance and financial disclosures.
 - **Academic Homepage Construction**: Designed and developed this academic website using **LaTeX** for document preparation and GitHub Pages for hosting.
