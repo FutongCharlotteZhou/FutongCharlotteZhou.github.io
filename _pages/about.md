@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div style="position: relative;"><div class="badge" style="position: absolute; top: 0; left: 0; background-color: rgba(0, 58, 140, 0.85); color: white; padding: 2px 10px; z-index: 10; border-radius: 2px 0 5px 0; font-size: 0.85em;">BAR 2025</div><img src='images/Publication BAR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OK, Let’s Talk. Firms’ Willingness to Communicate with Retail Investors: Evidence from Controlling Shareholders’ Equity Pledging](https://www.sciencedirect.com/science/article/abs/pii/S0890838925000952)
+[OK, Let’s Talk. Firms’ Willingness to Communicate with Retail Investors: Evidence from Controlling Shareholders’ Equity Pledging](https://doi.org/10.1016/j.bar.2025.101645)
 
 Jun BU, Tianlun FEI, **Futong ZHOU**
 
@@ -45,7 +45,7 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 <div class='paper-box'><div class='paper-box-image'><div style="position: relative;"><div class="badge" style="position: absolute; top: 0; left: 0; background-color: rgba(0, 58, 140, 0.85); color: white; padding: 2px 10px; z-index: 10; border-radius: 2px 0 5px 0; font-size: 0.85em;">IRFA 2024</div><img src='images/Publication IRFA.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[United We Stand, Divided We Fall: The Impact of Top Management Team Stability on Corporate Litigation](https://www.sciencedirect.com/science/article/abs/pii/S1057521924006082)
+[United We Stand, Divided We Fall: The Impact of Top Management Team Stability on Corporate Litigation](https://doi.org/10.1016/j.irfa.2024.103676)
 
 Jun BU, Tianlun FEI, **Futong ZHOU**
 
