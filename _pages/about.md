@@ -52,10 +52,8 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 </div>
 </div>
 
-- **Supply Chain Misconduct & Governance (Master's Thesis)**: Investigated the governance effect of CSRC random inspections on supply chain misconduct contagion using a sample of A-share listed companies from 2013 to 2023.
-- **Quantitative Analysis in Finance**: Leveraged **Stata** and **Python** to conduct rigorous empirical analysis on corporate governance and financial disclosures.
-- **Academic Homepage Construction**: Designed and developed this academic website using **LaTeX** for document preparation and GitHub Pages for hosting.
-
+- **Empowering High-Quality Enterprise Development through Supply Chain Finance: Mechanisms and Implementation Pathways**
+  *Participant (PI: Dr. Jun Bu) | NSSF (Youth), No. 23CGL010 | Sep 2023 – Present*
 &nbsp;
 
 # 🏵️ Honors and Awards
