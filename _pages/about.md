@@ -22,11 +22,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
-# 📝 Publications 
+<span class='anchor' id='publications'></span>
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div style="position: relative;"><div class="badge" style="position: absolute; top: 0; left: 0; background-color: rgba(0, 58, 140, 0.85); color: white; padding: 2px 10px; z-index: 10; border-radius: 2px 0 5px 0; font-size: 0.85em;">BAR 2025</div><img src='images/Publication BAR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,10 +57,12 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 - **Empowering High-Quality Enterprise Development through Supply Chain Finance: Mechanisms and Implementation Pathways**
   <br />*Core Researcher (PI: Dr. Jun BU) | NSSF (Youth), No. 23CGL010 | Sep 2023 – Present*
 
+<span class='anchor' id='honors-and-awards'></span>
 # 🏵️ Honors and Awards
 - *2021.10* [这里填入您的省级/校级荣誉名称]
 - *2021.09* [这里填入您的奖学金或竞赛奖项名称]
 
+<span class='anchor' id='skills-and-qualifications'></span>
 # 💻 Skills and Qualifications
 - **Standardized Tests**: IELTS (Score), GMAT (Score)
 - **Research Tools**: Stata, LaTeX, Python, Visio
