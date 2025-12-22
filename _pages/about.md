@@ -26,11 +26,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Publications
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="position: relative; display: inline-flex; width: 100%; justify-content: center;"> 
+    <div style="position: relative; display: flex; justify-content: center;">
       <div class="badge" style="position: absolute; top: 0; left: 10%; z-index: 10; padding: 2px 10px; background-color: rgba(0, 58, 140, 0.85); color: white; font-weight: bold; font-size: 0.85em; border-radius: 2px 0 5px 0;">BAR 2025</div>
       <img src='images/Publication BAR.png' alt="sym" style="width: 80%; display: block; border: 1px solid #f0f0f0; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     </div>
@@ -47,7 +47,7 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="position: relative; display: inline-flex; width: 100%; justify-content: center;"> 
+    <div style="position: relative; display: flex; justify-content: center;">
       <div class="badge" style="position: absolute; top: 0; left: 10%; z-index: 10; padding: 2px 10px; background-color: rgba(0, 58, 140, 0.85); color: white; font-weight: bold; font-size: 0.85em; border-radius: 2px 0 5px 0;">IRFA 2024</div>
       <img src='images/Publication IRFA.png' alt="sym" style="width: 80%; display: block; border: 1px solid #f0f0f0; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     </div>
@@ -62,10 +62,16 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
   </div>
 </div>
 
+&nbsp;
+
 # 🏵️ Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2021.10* [这里替换为您真实的获奖名称]
+- *2021.09* [这里替换为您真实的获奖名称]
+
+&nbsp;
 
 # 💻 Skills and Qualifications
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+- **Standardized Tests**: IELTS (Score), GMAT (Score)
+- **Research Tools**: Stata, LaTeX, Python, Visio
