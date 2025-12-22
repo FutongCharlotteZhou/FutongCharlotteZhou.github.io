@@ -30,9 +30,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="position: relative; display: inline-block; width: 80%;"> 
-      <div class="badge" style="position: absolute; top: 0; left: 0; z-index: 10; padding: 2px 10px; background-color: #003a8c; color: white; font-weight: bold; font-size: 0.85em; border-radius: 2px 0 5px 0;">BAR 2025</div>
-      <img src='images/Publication BAR.png' alt="sym" style="width: 60%; display: block; border: 1px solid #f0f0f0; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+    <div style="position: relative; display: inline-flex; width: 100%; justify-content: center;"> 
+      <div class="badge" style="position: absolute; top: 0; left: 10%; z-index: 10; padding: 2px 10px; background-color: rgba(0, 58, 140, 0.85); color: white; font-weight: bold; font-size: 0.85em; border-radius: 2px 0 5px 0;">BAR 2025</div>
+      <img src='images/Publication BAR.png' alt="sym" style="width: 80%; display: block; border: 1px solid #f0f0f0; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -47,9 +47,9 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="position: relative; display: inline-block; width: 80%;"> 
-      <div class="badge" style="position: absolute; top: 0; left: 0; z-index: 10; padding: 2px 10px; background-color: #003a8c; color: white; font-weight: bold; font-size: 0.85em; border-radius: 2px 0 5px 0;">IRFA 2024</div>
-      <img src='images/Publication IRFA.png' alt="sym" style="width: 60%; display: block; border: 1px solid #f0f0f0; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+    <div style="position: relative; display: inline-flex; width: 100%; justify-content: center;"> 
+      <div class="badge" style="position: absolute; top: 0; left: 10%; z-index: 10; padding: 2px 10px; background-color: rgba(0, 58, 140, 0.85); color: white; font-weight: bold; font-size: 0.85em; border-radius: 2px 0 5px 0;">IRFA 2024</div>
+      <img src='images/Publication IRFA.png' alt="sym" style="width: 80%; display: block; border: 1px solid #f0f0f0; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -61,8 +61,6 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 * **Contribution**: Provides evidence on how stable leadership structures mitigate legal exposures in firms.
   </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🏵️ Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
