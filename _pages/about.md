@@ -59,8 +59,14 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🏵️ Honors and Awards
-- *2021.10* [这里填入您的省级/校级荣誉名称]
-- *2021.09* [这里填入您的奖学金或竞赛奖项名称]
+
+- *2026.06* **Outstanding Graduate** (Top 5%), Southwestern University of Finance and Economics
+- *2025.10* **National Scholarship** (Top 1%, Highest National Honor for Students)
+- *2025.10* **Merit Student** (Top 1%), Southwestern University of Finance and Economics
+- *2024 - 2025* **Outstanding Postgraduate Scholarship** (Consecutive 2 Semesters)
+- *2023 - 2025* **Academic Scholarship** (Consecutive 3 Academic Years)
+- *2023.06* **Outstanding Graduate** (Top 5%), Dongbei University of Finance and Economics
+- *2019 - 2023* **Outstanding Student Scholarship** (Consecutive 4 Academic Years)
 
 <span class='anchor' id='skills-and-qualifications'></span>
 # 💻 Skills and Qualifications
