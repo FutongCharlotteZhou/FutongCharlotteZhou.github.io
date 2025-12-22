@@ -129,9 +129,10 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
         <svg width="100" height="100" viewBox="0 0 100 100">
           <circle cx="50" cy="50" r="40" stroke="#f0f0f0" stroke-width="8" fill="none" />
           <circle cx="50" cy="50" r="40" stroke="#003a8c" stroke-width="8" fill="none" 
-                  stroke-dasharray="251.2" stroke-dashoffset="57.8" stroke-linecap="round"
+                  stroke-dasharray="251.2" stroke-dashoffset="42.7" stroke-linecap="round"
                   transform="rotate(-90 50 50)" />
-          <text x="50" y="55" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">615</text>
+          <text x="50" y="48" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">615</text>
+          <text x="50" y="65" text-anchor="middle" font-size="9" font-weight="bold" fill="#003a8c" style="text-transform: uppercase; letter-spacing: 0.5px;">Focus</text>
         </svg>
         <div style="margin-top: 8px; font-weight: bold; color: #666;">GMAT</div>
       </div>
