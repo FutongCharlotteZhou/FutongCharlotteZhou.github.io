@@ -61,42 +61,44 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 # 🏵️ Honors and Awards
 
 <h3 style="margin-top: 20px; color: #003a8c;">At SWUFE</h3>
-<ul style="list-style-type: none; padding-left: 0;">
-  <li style="display: flex; justify-content: space-between; margin-bottom: 8px; border-bottom: 1px solid #f0f0f0; padding-bottom: 4px;">
+<ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
+  <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2026.06</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">Outstanding Graduate</span>
-    <span style="flex: 2; text-align: right; color: #d4380d; font-weight: 500;">Top 5%</span>
+    <span style="flex: 2; text-align: right; color: #666;">Top 5%</span>
   </li>
-  <li style="display: flex; justify-content: space-between; margin-bottom: 8px; border-bottom: 1px solid #f0f0f0; padding-bottom: 4px;">
+  <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2025.10</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">National Scholarship</span>
-    <span style="flex: 2; text-align: right; color: #d4380d; font-weight: 500;">Top Honor (Top 1%)</span>
+    <span style="flex: 2; text-align: right; color: #d4380d; font-weight: bold;">Top Honor</span>
   </li>
-  <li style="display: flex; justify-content: space-between; margin-bottom: 8px; border-bottom: 1px solid #f0f0f0; padding-bottom: 4px;">
+  <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2025.10</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">Merit Student</span>
-    <span style="flex: 2; text-align: right; color: #d4380d; font-weight: 500;">Top 1%</span>
+    <span style="flex: 2; text-align: right; color: #666;">Top 1%</span>
   </li>
-  <li style="display: flex; justify-content: space-between; margin-bottom: 8px; border-bottom: 1px solid #f0f0f0; padding-bottom: 4px;">
+  <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2024 - 2025</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">Outstanding Graduate Scholarship</span>
     <span style="flex: 2; text-align: right; color: #666;">Consecutive 2 Semesters</span>
   </li>
-  <li style="display: flex; justify-content: space-between; margin-bottom: 8px; border-bottom: 1px solid #f0f0f0; padding-bottom: 4px;">
+  <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2023 - 2025</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">Graduate Study Scholarship</span>
     <span style="flex: 2; text-align: right; color: #666;">Consecutive 3 Academic Years</span>
   </li>
 </ul>
 
-<h3 style="margin-top: 25px; color: #003a8c;">At DUFE</h3>
+<hr style="border: 0; border-top: 1px solid #f0f0f0; margin: 25px 0;">
+
+<h3 style="margin-top: 10px; color: #003a8c;">At DUFE</h3>
 <ul style="list-style-type: none; padding-left: 0;">
-  <li style="display: flex; justify-content: space-between; margin-bottom: 8px; border-bottom: 1px solid #f0f0f0; padding-bottom: 4px;">
+  <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2023.06</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">Outstanding Graduate</span>
-    <span style="flex: 2; text-align: right; color: #d4380d; font-weight: 500;">Top 5%</span>
+    <span style="flex: 2; text-align: right; color: #666;">Top 5%</span>
   </li>
-  <li style="display: flex; justify-content: space-between; margin-bottom: 8px; border-bottom: 1px solid #f0f0f0; padding-bottom: 4px;">
+  <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2019 - 2023</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">Outstanding Student Scholarship</span>
     <span style="flex: 2; text-align: right; color: #666;">Consecutive 4 Academic Years</span>
