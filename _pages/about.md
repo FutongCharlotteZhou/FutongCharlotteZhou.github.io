@@ -32,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
   <div class='paper-box-image'>
     <div style="position: relative; display: inline-block; width: 80%;"> 
       <div class="badge" style="position: absolute; top: 0; left: 0; z-index: 10; padding: 2px 10px; background-color: #003a8c; color: white; font-weight: bold; font-size: 0.85em; border-radius: 2px 0 5px 0;">BAR 2025</div>
-      <img src='images/Publication BAR.png' alt="sym" style="width: 100%; display: block; border: 1px solid #f0f0f0; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+      <img src='images/Publication BAR.png' alt="sym" style="width: 60%; display: block; border: 1px solid #f0f0f0; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -49,7 +49,7 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
   <div class='paper-box-image'>
     <div style="position: relative; display: inline-block; width: 80%;"> 
       <div class="badge" style="position: absolute; top: 0; left: 0; z-index: 10; padding: 2px 10px; background-color: #003a8c; color: white; font-weight: bold; font-size: 0.85em; border-radius: 2px 0 5px 0;">IRFA 2024</div>
-      <img src='images/Publication IRFA.png' alt="sym" style="width: 100%; display: block; border: 1px solid #f0f0f0; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+      <img src='images/Publication IRFA.png' alt="sym" style="width: 60%; display: block; border: 1px solid #f0f0f0; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -60,11 +60,6 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 * **Core Insight**: Examined the relationship between Top Management Team (TMT) stability and corporate litigation risks.
 * **Contribution**: Provides evidence on how stable leadership structures mitigate legal exposures in firms.
   </div>
-</div>
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
