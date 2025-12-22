@@ -80,12 +80,12 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
   <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2024 - 2025</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">Outstanding Graduate Scholarship</span>
-    <span style="flex: 2; text-align: right; color: #666;">Consecutive 2 Semesters</span>
+    <span style="flex: 2; text-align: right; color: #666;">2-Sem. Recipient</span>
   </li>
   <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2023 - 2025</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">Graduate Study Scholarship</span>
-    <span style="flex: 2; text-align: right; color: #666;">Consecutive 3 Academic Years</span>
+    <span style="flex: 2; text-align: right; color: #666;">3-Year Recipient</span>
   </li>
 </ul>
 
@@ -101,7 +101,7 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
   <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2019 - 2023</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">Outstanding Student Scholarship</span>
-    <span style="flex: 2; text-align: right; color: #666;">Consecutive 4 Academic Years</span>
+    <span style="flex: 2; text-align: right; color: #666;">4-Year Recipient</span>
   </li>
 </ul>
 
