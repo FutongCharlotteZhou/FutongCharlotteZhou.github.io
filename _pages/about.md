@@ -50,7 +50,6 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 - **Core Insight**: Examined the relationship between Top Management Team (TMT) stability and corporate litigation risks.
 - **Contribution**: Provides evidence on how stable leadership structures mitigate legal exposures in firms.
 </div>
-</div>
 
 # 🏵️ Honors and Awards
 - *2021.10* [这里填入您的省级/校级荣誉名称]
