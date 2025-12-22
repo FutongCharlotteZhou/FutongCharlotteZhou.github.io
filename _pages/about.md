@@ -28,10 +28,17 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAR</div><img src='images/Publication BAR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAR 2025</div><img src='images/Publication BAR.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OK, Let’s Talk. Firms’ Willingness to Communicate with Retail Investors: Evidence from Controlling Shareholders’ Equity Pledging](https://doi.org/10.1016/j.bar.2025.101645)
+
+Jun BU, Tianlun FEI, **Futong ZHOU**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IRFA 2024</div><img src='images/Publication IRFA.png' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[United We Stand, Divided We Fall: The Impact of Top Management Team Stability on Corporate Litigation](https://doi.org/10.1016/j.irfa.2024.103676)
 
 Jun BU, Tianlun FEI, **Futong ZHOU**
 
