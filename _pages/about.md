@@ -108,44 +108,44 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 <span class='anchor' id='skills-and-qualifications'></span>
 # 💻 Skills and Qualifications
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 25px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 10px;">
   
-  <div style="flex: 0.9; min-width: 280px; margin-bottom: 30px;">
-    <h3 style="color: #003a8c; margin-bottom: 20px;">Standardized Tests</h3>
-    <div style="display: flex; gap: 35px; align-items: center;">
+  <div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
+    <h3 style="color: #003a8c; margin-bottom: 15px; margin-top: 5px;">Standardized Tests</h3>
+    <div style="display: flex; gap: 40px; align-items: center;">
       
       <div style="text-align: center;">
-        <svg width="80" height="80" viewBox="0 0 80 80">
-          <circle cx="40" cy="40" r="32" stroke="#f0f0f0" stroke-width="6" fill="none" />
-          <circle cx="40" cy="40" r="32" stroke="#003a8c" stroke-width="6" fill="none" 
-                  stroke-dasharray="201" stroke-dashoffset="22.3" stroke-linecap="round"
-                  transform="rotate(-90 40 40)" />
-          <text x="40" y="46" text-anchor="middle" font-size="16" font-weight="bold" fill="#333">8.0</text>
+        <svg width="100" height="100" viewBox="0 0 100 100">
+          <circle cx="50" cy="50" r="40" stroke="#f0f0f0" stroke-width="8" fill="none" />
+          <circle cx="50" cy="50" r="40" stroke="#003a8c" stroke-width="8" fill="none" 
+                  stroke-dasharray="251.2" stroke-dashoffset="27.9" stroke-linecap="round"
+                  transform="rotate(-90 50 50)" />
+          <text x="50" y="55" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">8.0</text>
         </svg>
-        <div style="margin-top: 6px; font-weight: bold; font-size: 0.9em; color: #666;">IELTS</div>
+        <div style="margin-top: 8px; font-weight: bold; color: #666;">IELTS</div>
       </div>
 
       <div style="text-align: center;">
-        <svg width="80" height="80" viewBox="0 0 80 80">
-          <circle cx="40" cy="40" r="32" stroke="#f0f0f0" stroke-width="6" fill="none" />
-          <circle cx="40" cy="40" r="32" stroke="#003a8c" stroke-width="6" fill="none" 
-                  stroke-dasharray="201" stroke-dashoffset="46.2" stroke-linecap="round"
-                  transform="rotate(-90 40 40)" />
-          <text x="40" y="46" text-anchor="middle" font-size="16" font-weight="bold" fill="#333">615</text>
+        <svg width="100" height="100" viewBox="0 0 100 100">
+          <circle cx="50" cy="50" r="40" stroke="#f0f0f0" stroke-width="8" fill="none" />
+          <circle cx="50" cy="50" r="40" stroke="#003a8c" stroke-width="8" fill="none" 
+                  stroke-dasharray="251.2" stroke-dashoffset="57.8" stroke-linecap="round"
+                  transform="rotate(-90 50 50)" />
+          <text x="50" y="55" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">615</text>
         </svg>
-        <div style="margin-top: 6px; font-weight: bold; font-size: 0.9em; color: #666;">GMAT</div>
+        <div style="margin-top: 8px; font-weight: bold; color: #666;">GMAT</div>
       </div>
 
     </div>
   </div>
 
-  <div style="flex: 1.3; min-width: 300px;">
-    <div style="margin-bottom: 25px;">
-      <h3 style="color: #003a8c; margin-bottom: 10px;">Research Tools</h3>
+  <div style="flex: 1.2; min-width: 300px;">
+    <div style="margin-bottom: 20px;">
+      <h3 style="color: #003a8c; margin-bottom: 12px; margin-top: 5px;">Research Tools</h3>
       <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
         <span style="background: #f8f9fa; padding: 5px 12px; border-radius: 15px; border: 1px solid #e9ecef; font-weight: 500;">Stata</span>
         
-        <span style="background: #f8f9fa; padding: 5px 12px; border-radius: 15px; border: 1px solid #e9ecef; font-family: 'Times New Roman', serif; font-weight: normal;">
+        <span style="background: #f8f9fa; padding: 5px 12px; border-radius: 15px; border: 1px solid #e9ecef; font-family: 'Times New Roman', serif;">
           L<span style="text-transform: uppercase; font-size: 0.75em; vertical-align: 0.25em; margin-left: -0.36em; margin-right: -0.15em;">A</span>T<span style="text-transform: uppercase; vertical-align: -0.25em; margin-left: -0.1667em; margin-right: -0.125em;">E</span>X
         </span>
 
@@ -156,7 +156,7 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 
     <div>
       <h3 style="color: #003a8c; margin-bottom: 10px;">Technical Skills</h3>
-      <ul style="padding-left: 20px; line-height: 1.6; color: #444;">
+      <ul style="padding-left: 20px; line-height: 1.6; color: #444; margin-top: 5px;">
         <li>Empirical research in corporate finance and supply chain management.</li>
         <li>Large-scale data processing and econometric analysis (2013-2023).</li>
       </ul>
