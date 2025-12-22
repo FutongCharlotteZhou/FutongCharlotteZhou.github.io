@@ -107,6 +107,56 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 
 <span class='anchor' id='skills-and-qualifications'></span>
 # 💻 Skills and Qualifications
-- **Standardized Tests**: IELTS (Score), GMAT (Score)
-- **Research Tools**: Stata, LaTeX, Python, Visio
-- **Technical Skills**: Empirical research in corporate finance and supply chain management.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 25px;">
+  
+  <div style="flex: 1; min-width: 300px; margin-bottom: 30px;">
+    <h3 style="color: #003a8c; margin-bottom: 20px;">Standardized Tests</h3>
+    <div style="display: flex; gap: 40px; align-items: center;">
+      
+      <div style="text-align: center;">
+        <svg width="100" height="100" viewBox="0 0 100 100">
+          <circle cx="50" cy="50" r="40" stroke="#f0f0f0" stroke-width="8" fill="none" />
+          <circle cx="50" cy="50" r="40" stroke="#003a8c" stroke-width="8" fill="none" 
+                  stroke-dasharray="251.2" stroke-dashoffset="27.9" stroke-linecap="round"
+                  transform="rotate(-90 50 50)" />
+          <text x="50" y="55" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">8.0</text>
+        </svg>
+        <div style="margin-top: 8px; font-weight: bold; color: #666;">IELTS</div>
+      </div>
+
+      <div style="text-align: center;">
+        <svg width="100" height="100" viewBox="0 0 100 100">
+          <circle cx="50" cy="50" r="40" stroke="#f0f0f0" stroke-width="8" fill="none" />
+          <circle cx="50" cy="50" r="40" stroke="#003a8c" stroke-width="8" fill="none" 
+                  stroke-dasharray="251.2" stroke-dashoffset="57.8" stroke-linecap="round"
+                  transform="rotate(-90 50 50)" />
+          <text x="50" y="55" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">615</text>
+        </svg>
+        <div style="margin-top: 8px; font-weight: bold; color: #666;">GMAT</div>
+      </div>
+
+    </div>
+  </div>
+
+  <div style="flex: 1.2; min-width: 300px;">
+    <div style="margin-bottom: 25px;">
+      <h3 style="color: #003a8c; margin-bottom: 10px;">Research Tools</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <span style="background: #f8f9fa; padding: 5px 12px; border-radius: 15px; border: 1px solid #e9ecef; font-weight: 500;">Stata</span>
+        <span style="background: #f8f9fa; padding: 5px 12px; border-radius: 15px; border: 1px solid #e9ecef; font-weight: 500;">LaTeX</span>
+        <span style="background: #f8f9fa; padding: 5px 12px; border-radius: 15px; border: 1px solid #e9ecef; font-weight: 500;">Python</span>
+        <span style="background: #f8f9fa; padding: 5px 12px; border-radius: 15px; border: 1px solid #e9ecef; font-weight: 500;">Visio</span>
+      </div>
+    </div>
+
+    <div>
+      <h3 style="color: #003a8c; margin-bottom: 10px;">Technical Skills</h3>
+      <ul style="padding-left: 20px; line-height: 1.6; color: #444;">
+        <li>Empirical research in corporate finance and supply chain management.</li>
+        <li>Large-scale data processing and econometric analysis (2013-2023).</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
