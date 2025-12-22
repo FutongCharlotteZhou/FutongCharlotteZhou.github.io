@@ -28,19 +28,31 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAR 2025</div><img src='images/Publication BAR.png' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
-
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">BAR 2025</div>
+      <img src='images/Publication BAR.png' alt="sym" style="width: 60%; display: block; margin: 0 auto;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 [OK, Let’s Talk. Firms’ Willingness to Communicate with Retail Investors: Evidence from Controlling Shareholders’ Equity Pledging](https://doi.org/10.1016/j.bar.2025.101645)
 
 Jun BU, Tianlun FEI, **Futong ZHOU**
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IRFA 2024</div><img src='images/Publication IRFA.png' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
-
+  </div>
+</div> <div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IRFA 2024</div>
+      <img src='images/Publication IRFA.png' alt="sym" style="width: 60%; display: block; margin: 0 auto;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 [United We Stand, Divided We Fall: The Impact of Top Management Team Stability on Corporate Litigation](https://doi.org/10.1016/j.irfa.2024.103676)
 
 Jun BU, Tianlun FEI, **Futong ZHOU**
+  </div>
+</div>
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
