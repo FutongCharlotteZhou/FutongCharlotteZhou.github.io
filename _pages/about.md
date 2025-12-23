@@ -22,14 +22,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 <span class='anchor' id='educations'></span>
-# 📖 Educations
+<h1 style="margin-top: 40px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">📖 Educations</h1>
 
-<div style="display: flex; align-items: flex-start; margin-top: 10px; margin-bottom: 35px;">
+<div style="display: flex; align-items: flex-start; margin-top: 0; margin-bottom: 35px;">
   <div style="flex: 0 0 80px; margin-right: 25px;">
     <img src='images/logo round 透明.png' alt="SWUFE" style="width: 80px; height: 80px; object-fit: contain;">
   </div>
   <div style="flex: 1;">
-    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 5px;">
       <span style="font-weight: bold; font-size: 1.15em; color: #003a8c;">Southwestern University of Finance & Economics</span>
       <span style="color: #888; font-size: 0.9em; font-style: italic;">Chengdu, Sichuan</span>
     </div>
@@ -63,9 +63,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 <span class='anchor' id='publications'></span>
-# 📝 Publications
+<h1 style="margin-top: 40px; margin-bottom: 5px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">📝 Publications</h1>
 
-<div class='paper-box' style="margin-top: 10px;"><div class='paper-box-image'><div style="position: relative;"><div class="badge" style="position: absolute; top: 0; left: 0; background-color: rgba(0, 58, 140, 0.85); color: white; padding: 2px 10px; z-index: 10; border-radius: 2px 0 5px 0; font-size: 0.85em;">BAR 2025</div><img src='images/Publication BAR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box' style="margin-top: 0;"><div class='paper-box-image'><div style="position: relative;"><div class="badge" style="position: absolute; top: 0; left: 0; background-color: rgba(0, 58, 140, 0.85); color: white; padding: 2px 10px; z-index: 10; border-radius: 2px 0 5px 0; font-size: 0.85em;">BAR 2025</div><img src='images/Publication BAR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OK, Let’s Talk. Firms’ Willingness to Communicate with Retail Investors: Evidence from Controlling Shareholders’ Equity Pledging](https://doi.org/10.1016/j.bar.2025.101645)
@@ -92,7 +92,7 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 - **Empowering High-Quality Enterprise Development through Supply Chain Finance: Mechanisms and Implementation Pathways** <br>*Core Researcher (PI: Dr. Jun BU) | NSSF (Youth), No. 23CGL010 | Sep 2023 – Present*
 
 <span class='anchor' id='honors-and-awards'></span>
-# 🏵️ Honors and Awards
+<h1 style="margin-top: 40px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">🏵️ Honors and Awards</h1>
 
 <h3 style="margin-top: 10px; color: #003a8c;">At SWUFE</h3>
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
@@ -140,7 +140,7 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 </ul>
 
 <span class='anchor' id='skills-and-qualifications'></span>
-# 💻 Skills and Qualifications
+<h1 style="margin-top: 40px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">💻 Skills and Qualifications</h1>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 10px;">
   
