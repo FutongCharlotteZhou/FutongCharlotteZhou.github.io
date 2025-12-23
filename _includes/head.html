@@ -18,18 +18,27 @@
   <base target="_blank">
   
   <style>
-    /* 1. 导航栏鼠标悬停时的文字颜色 */
+    /* 1. 彻底移除主题默认的灰色悬停阴影 */
+    .masthead__menu-item,
+    .masthead__menu-item a,
+    .masthead__menu-item:hover,
+    .masthead__menu-item--active {
+      box-shadow: none !important;
+      border-bottom: none !important;
+    }
+
+    /* 2. 导航栏鼠标悬停时的文字颜色 */
     .masthead__menu-item a:hover {
       color: #003a8c !important;
       text-decoration: none;
     }
 
-    /* 2. 鼠标悬停时出现的下划线条（将灰色改为专业蓝） */
+    /* 3. 定义新的专业蓝下划线 (3px 厚度) */
     .masthead__menu-item:hover {
       border-bottom: 3px solid #003a8c !important;
     }
 
-    /* 3. 当前激活页面（选定状态）的样式 */
+    /* 4. 当前激活页面（选中状态）的样式 */
     .masthead__menu-item--active {
       border-bottom: 3px solid #003a8c !important;
     }
@@ -39,10 +48,10 @@
       font-weight: bold;
     }
 
-    /* 4. 微调导航项之间的间距，增加呼吸感 */
+    /* 5. 保持导航项之间的间距 */
     .masthead__menu-item {
       margin-left: 1.5rem;
-      transition: all 0.2s ease-in-out;
+      transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
     }
   </style>
 </head>
