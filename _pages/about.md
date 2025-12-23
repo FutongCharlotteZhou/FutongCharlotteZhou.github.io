@@ -89,7 +89,8 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 </div>
 </div>
 
-- **Empowering High-Quality Enterprise Development through Supply Chain Finance: Mechanisms and Implementation Pathways** <br>*Core Researcher (PI: Dr. Jun BU) | NSSF (Youth), No. 23CGL010 | Sep 2023 – Present*
+- **Empowering High-Quality Enterprise Development through Supply Chain Finance: Mechanisms and Implementation Pathways**
+<br />*Core Researcher (PI: Dr. Jun BU) | NSSF (Youth), No. 23CGL010 | Sep 2023 – Present*
 
 <span class='anchor' id='honors-and-awards'></span>
 <h1 style="margin-top: 40px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">🏵️ Honors and Awards</h1>
