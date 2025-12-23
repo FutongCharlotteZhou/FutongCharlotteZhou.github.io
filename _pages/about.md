@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div style="display: flex; align-items: flex-start; margin-top: 30px; margin-bottom: 35px;">
   <div style="flex: 0 0 80px; margin-right: 25px;">
-    <img src='images/西南财经大学圆形校徽.png' alt="SWUFE" style="width: 80px; height: 80px; object-fit: contain;">
+    <img src='images/logo round 透明.png' alt="SWUFE" style="width: 80px; height: 80px; object-fit: contain;">
   </div>
   <div style="flex: 1;">
     <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
