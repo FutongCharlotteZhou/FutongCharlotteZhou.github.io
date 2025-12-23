@@ -25,35 +25,41 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 
-<div style="margin-top: 20px;">
-  <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 5px;">
-    <span style="flex: 2; text-align: left; font-weight: bold; font-size: 1.1em; color: #003a8c;">Southwestern University of Finance & Economics</span>
-    <span style="flex: 1; text-align: right; color: #666; font-style: italic;">Chengdu, Sichuan</span>
+<div style="display: flex; align-items: flex-start; margin-top: 30px; margin-bottom: 35px;">
+  <div style="flex: 0 0 80px; margin-right: 25px;">
+    <img src='images/logo round 透明.jpg' alt="SWUFE" style="width: 80px; height: 80px; object-fit: contain;">
   </div>
-  <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px;">
-    <span style="flex: 2; text-align: left; font-style: italic;">Master of Management</span>
-    <span style="flex: 1; text-align: center; color: #666; font-weight: 500;">GPA: 4.19/5.00</span>
-    <span style="flex: 1; text-align: right; color: #666;">Sept 2023 - Jun 2026</span>
-  </div>
-  <div style="padding-left: 20px; color: #444; font-size: 0.95em;">
-    <strong>Coursework</strong>: Western Enterprise Research (99), Operation Management (97), Intermediate Management (93)
+  <div style="flex: 1;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+      <span style="font-weight: bold; font-size: 1.15em; color: #003a8c;">Southwestern University of Finance & Economics</span>
+      <span style="color: #888; font-size: 0.9em; font-style: italic;">Chengdu, Sichuan</span>
+    </div>
+    <div style="color: #444; font-size: 1em; margin-bottom: 4px;">
+      Master of Management <span style="color: #ccc; margin: 0 10px;">|</span> <span style="color: #666;">GPA: 4.19 / 5.00</span>
+    </div>
+    <div style="color: #888; font-size: 0.9em;">
+      Sept 2023 — June 2026 (Expected)
+    </div>
   </div>
 </div>
 
-<hr style="border: 0; border-top: 1px solid #f0f0f0; margin: 25px 0;">
+<div style="margin-left: 40px; border-left: 2px solid #f0f0f0; height: 30px; margin-top: -35px; margin-bottom: 5px;"></div>
 
-<div style="margin-top: 10px;">
-  <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 5px;">
-    <span style="flex: 2; text-align: left; font-weight: bold; font-size: 1.1em; color: #003a8c;">Dongbei University of Finance & Economics</span>
-    <span style="flex: 1; text-align: right; color: #666; font-style: italic;">Dalian, Liaoning</span>
+<div style="display: flex; align-items: flex-start; margin-top: 5px;">
+  <div style="flex: 0 0 80px; margin-right: 25px;">
+    <img src='images/东北财经大学圆形校徽.jpg' alt="DUFE" style="width: 80px; height: 80px; object-fit: contain;">
   </div>
-  <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px;">
-    <span style="flex: 2; text-align: left; font-style: italic;">Bachelor of Management</span>
-    <span style="flex: 1; text-align: center; color: #666; font-weight: 500;">GPA: 4.20/5.00</span>
-    <span style="flex: 1; text-align: right; color: #666;">Sept 2019 - Jun 2023</span>
-  </div>
-  <div style="padding-left: 20px; color: #444; font-size: 0.95em;">
-    <strong>Coursework</strong>: Advanced Management Accounting (98), Ethics (97), Capital Market and Accounting (95)
+  <div style="flex: 1;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+      <span style="font-weight: bold; font-size: 1.15em; color: #003a8c;">Dongbei University of Finance & Economics</span>
+      <span style="color: #888; font-size: 0.9em; font-style: italic;">Dalian, Liaoning</span>
+    </div>
+    <div style="color: #444; font-size: 1em; margin-bottom: 4px;">
+      Bachelor of Management <span style="color: #ccc; margin: 0 10px;">|</span> <span style="color: #666;">GPA: 4.20 / 5.00</span>
+    </div>
+    <div style="color: #888; font-size: 0.9em;">
+      Sept 2019 — June 2023
+    </div>
   </div>
 </div>
 
