@@ -19,28 +19,43 @@
   
   <style>
   /* ============================================================
-     侧边栏 (Sidebar) 精确微调：统一比例与间距
+     侧边栏 (Sidebar) 麦肯锡风格：像素级间距与字号对齐
      ============================================================ */
 
-  /* 1. 字体大小对齐：让格言的大小与学校名称一致 */
-  /* 2. 块间距均匀：统一设置底部边距为 25px */
-  .sidebar .author__content .author__bio {
-    font-size: 1.1em !important; /* 对齐学校名称的大小 */
-    margin-bottom: 25px !important; /* 块与块之间的均匀间距 */
+  /* 1. 强制对齐：将【学校名称】和【格言】设为完全相同的字号 */
+  /* 2. 均匀间距：通过 margin-bottom 确保 块-块 之间的距离一致 */
+  
+  /* 目标：学校名称 */
+  .sidebar .author__bio {
+    font-size: 1.15rem !important;   /* 统一字号大小 */
+    margin-bottom: 25px !important;  /* 下方留出 25px 均匀间距 */
     color: #333 !important;
-    line-height: 1.4;
+    font-weight: 500 !important;
+    line-height: 1.4 !important;
   }
 
-  /* 3. 社交列表块：对齐上方的均匀间距，且不加横线 */
+  /* 目标：格言 (Nec Glacie, Nec Igne) */
+  /* 在您的主题中，格言通常被包裹在 author__content 下的 p 标签中 */
+  .sidebar .author__content p,
+  .sidebar .author__urls-wrapper + p {
+    font-size: 1.15rem !important;   /* 强制与学校名称字号一致 */
+    margin-top: 0 !important;
+    margin-bottom: 25px !important;  /* 下方留出 25px 均匀间距 */
+    color: #333 !important;
+    font-weight: 500 !important;
+    line-height: 1.4 !important;
+  }
+
+  /* 3. 社交图标块：消除顶部多余间距和横线，确保整体均匀 */
   .author__urls-wrapper {
     margin-top: 0 !important;
     padding-top: 0 !important;
-    border-top: none !important; /* 严格不加横线 */
+    border-top: none !important;     /* 严格不加横线 */
   }
 
-  /* 解决问题 2：让图标看起来像“精致的小 SVG” (保留原有逻辑) */
+  /* 4. 图标美化：保持 16px 精致蓝色 SVG 风格 */
   .author__urls svg {
-    fill: #003a8c !important; /* 统一使用您的专业蓝 */
+    fill: #003a8c !important;        /* 标志性专业蓝 */
     width: 16px !important;
     height: 16px !important;
     margin-right: 12px !important;
@@ -49,27 +64,26 @@
     transition: all 0.2s ease-in-out;
   }
 
-  /* 鼠标悬停时的动态反馈 (保留原有逻辑) */
+  /* 鼠标悬停交互反馈 */
   .author__urls li:hover svg {
     opacity: 1;
     transform: scale(1.15);
     filter: drop-shadow(0 0 2px rgba(0,58,140,0.2));
   }
 
-  /* 优化侧边栏文字排列 */
   .author__urls li {
-    margin-bottom: 14px !important;
+    margin-bottom: 14px !important;  /* 列表项内部行间距 */
     font-size: 0.9em;
-    color: #555 !important;
   }
 
   .author__urls li a {
     text-decoration: none !important;
+    color: #555 !important;
     transition: color 0.2s;
   }
 
   .author__urls li a:hover {
-    color: #003a8c !important; /* 悬停文字同步变蓝 */
+    color: #003a8c !important;       /* 悬停变蓝 */
   }
 </style>
 </head>
