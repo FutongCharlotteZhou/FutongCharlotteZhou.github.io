@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 <span class='anchor' id='educations'></span>
-<h1 style="margin-top: 50px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">📖 Educations</h1>
+<h1 style="margin-top: 40px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">📖 Educations</h1>
 
 <div style="display: flex; align-items: flex-start; margin-top: 0; margin-bottom: 35px;">
   <div style="flex: 0 0 80px; margin-right: 25px;">
@@ -63,7 +63,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 <span class='anchor' id='publications'></span>
-<h1 style="margin-top: 50px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">📝 Publications</h1>
+<h1 style="margin-top: 40px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">📝 Publications</h1>
 
 <div class='paper-box' style="margin-top: 0;"><div class='paper-box-image'><div style="position: relative;"><div class="badge" style="position: absolute; top: 0; left: 0; background-color: rgba(0, 58, 140, 0.85); color: white; padding: 2px 10px; z-index: 10; border-radius: 2px 0 5px 0; font-size: 0.85em;">BAR 2025</div><img src='images/Publication BAR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,7 +94,7 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 </div>
 
 <span class='anchor' id='honors-and-awards'></span>
-<h1 style="margin-top: 50px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">🏵️ Honors and Awards</h1>
+<h1 style="margin-top: 40px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">🏵️ Honors and Awards</h1>
 
 <h3 style="margin-top: 10px; color: #003a8c;">At SWUFE</h3>
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
@@ -142,7 +142,7 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 </ul>
 
 <span class='anchor' id='skills-and-qualifications'></span>
-<h1 style="margin-top: 50px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">💻 Skills and Qualifications</h1>
+<h1 style="margin-top: 40px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">💻 Skills and Qualifications</h1>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 10px;">
   
