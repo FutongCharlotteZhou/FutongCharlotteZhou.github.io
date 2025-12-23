@@ -34,7 +34,7 @@ My research interest includes neural machine translation and computer vision. I 
       <span style="color: #888; font-size: 0.9em; font-style: italic;">Chengdu, Sichuan</span>
     </div>
     <div style="color: #444; font-size: 1em; margin-bottom: 4px;">
-      Master of Management in **Corporate Management** <span style="color: #ccc; margin: 0 10px;">|</span> <span style="color: #666;">GPA: 4.19 / 5.00</span>
+      Master of Management in Corporate Management <span style="color: #ccc; margin: 0 10px;">|</span> <span style="color: #666;">GPA: 4.19 / 5.00</span>
     </div>
     <div style="color: #888; font-size: 0.9em;">
       Sept 2023 — June 2026 (Expected)
@@ -54,7 +54,7 @@ My research interest includes neural machine translation and computer vision. I 
       <span style="color: #888; font-size: 0.9em; font-style: italic;">Dalian, Liaoning</span>
     </div>
     <div style="color: #444; font-size: 1em; margin-bottom: 4px;">
-      Bachelor of Management in **Accounting** <span style="color: #ccc; margin: 0 10px;">|</span> <span style="color: #666;">GPA: 4.20 / 5.00</span>
+      Bachelor of Management in Accounting <span style="color: #ccc; margin: 0 10px;">|</span> <span style="color: #666;">GPA: 4.20 / 5.00</span>
     </div>
     <div style="color: #888; font-size: 0.9em;">
       Sept 2019 — June 2023
@@ -89,9 +89,7 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 </div>
 </div>
 
-<div style="margin-top: 10px;">
-- **Empowering High-Quality Enterprise Development through Supply Chain Finance: Mechanisms and Implementation Pathways**
-  <br />*Core Researcher (PI: Dr. Jun BU) | NSSF (Youth), No. 23CGL010 | Sep 2023 – Present*
+- **Empowering High-Quality Enterprise Development through Supply Chain Finance: Mechanisms and Implementation Pathways**<br />*Core Researcher (PI: Dr. Jun BU) | NSSF (Youth), No. 23CGL010 | Sep 2023 – Present*
 </div>
 
 <span class='anchor' id='honors-and-awards'></span>
