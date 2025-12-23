@@ -150,17 +150,17 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
     <div style="display: flex; gap: 40px; align-items: center;">
       
       <div style="text-align: center;">
-        <svg width="100" height="100" viewBox="0 0 100 100">
-          <circle cx="50" cy="50" r="40" stroke="#f0f0f0" stroke-width="8" fill="none" />
-          <circle cx="50" cy="50" r="40" stroke="#003a8c" stroke-width="8" fill="none" 
-                  stroke-dasharray="251.2" stroke-dashoffset="0" stroke-linecap="round"
-                  transform="rotate(-90 50 50)" />
-          <text x="50" y="55" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">8.0</text>
-        </svg>
-        <div style="margin-top: 12px; height: 35px; display: flex; align-items: center; justify-content: center;">
-          <img src="images/IELTS.png" alt="IELTS" style="width: 75px;">
-        </div>
-      </div>
+  <svg width="100" height="100" viewBox="0 0 100 100">
+    <circle cx="50" cy="50" r="40" stroke="#f0f0f0" stroke-width="8" fill="none" />
+    <circle cx="50" cy="50" r="40" stroke="#003a8c" stroke-width="8" fill="none" 
+            stroke-dasharray="251.2" stroke-dashoffset="25.12" stroke-linecap="round"
+            transform="rotate(-90 50 50)" />
+    <text x="50" y="55" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">8.0</text>
+  </svg>
+  <div style="margin-top: 12px; height: 35px; display: flex; align-items: center; justify-content: center;">
+    <img src="images/IELTS.png" alt="IELTS" style="width: 75px;">
+  </div>
+</div>
 
       <div style="text-align: center;">
         <svg width="100" height="100" viewBox="0 0 100 100">
