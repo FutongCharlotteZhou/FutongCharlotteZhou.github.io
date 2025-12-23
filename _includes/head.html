@@ -18,17 +18,65 @@
   <base target="_blank">
   
   <style>
-    /* 仅改变鼠标悬停时的文字颜色为专业蓝 (#003a8c) */
-    /* 主题默认的灰色阴影条将通过 main.css 自动保留 */
+    /* ============================================================
+       1. 导航栏样式 (保持您之前的偏好：灰色条 + 悬停蓝字)
+       ============================================================ */
     .masthead__menu-item a:hover {
       color: #003a8c !important;
       text-decoration: none;
     }
-
-    /* 同时让当前激活页面（选中状态）的文字也显示为蓝色 */
     .masthead__menu-item--active a {
       color: #003a8c !important;
       font-weight: bold;
+    }
+
+    /* ============================================================
+       2. 侧边栏 (Sidebar) 深度美化
+       ============================================================ */
+    
+    /* 解决问题 1：拉开格言 (Description) 与下方社交列表的间距 */
+    .author__urls-wrapper {
+      margin-top: 40px !important; /* 增加明显的呼吸感 */
+      border-top: 1px solid #f2f3f3; /* 增加一条极细的分割线，更显精致 */
+      padding-top: 20px;
+    }
+
+    /* 解决问题 2：美化图标及其排列 */
+    .author__urls svg {
+      fill: #003a8c !important; /* 统一使用专业蓝，提升高级感 */
+      width: 18px !important;    /* 稍微缩小图标，显得更精致 */
+      margin-right: 15px !important;
+      vertical-align: middle;
+      transition: transform 0.2s ease-in-out;
+    }
+
+    /* 鼠标悬停在图标上的微小动态效果 */
+    .author__urls li:hover svg {
+      transform: scale(1.2); /* 轻微放大，增加交互反馈 */
+    }
+
+    /* 优化文字列表的行间距和颜色 */
+    .author__urls li {
+      margin-bottom: 15px !important; /* 增加行距，防止拥挤 */
+      font-size: 0.95em;
+      color: #444 !important;
+    }
+
+    .author__urls li a {
+      text-decoration: none !important;
+      color: #444 !important;
+    }
+
+    .author__urls li a:hover {
+      color: #003a8c !important; /* 悬停时文字同步变蓝 */
+    }
+
+    /* 特别处理格言部分的排版 */
+    .sidebar .author__content .author__bio {
+      margin-top: 5px;
+      margin-bottom: 5px;
+      font-weight: 500;
+      color: #333;
     }
   </style>
 </head>
