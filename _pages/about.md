@@ -63,7 +63,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 <span class='anchor' id='publications'></span>
-<h1 style="margin-top: 40px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">📝 Publications</h1>
+<h1 style="margin-top: 40px; margin-bottom: 5px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">📝 Publications</h1>
 
 <div class='paper-box' style="margin-top: 0;"><div class='paper-box-image'><div style="position: relative;"><div class="badge" style="position: absolute; top: 0; left: 0; background-color: rgba(0, 58, 140, 0.85); color: white; padding: 2px 10px; z-index: 10; border-radius: 2px 0 5px 0; font-size: 0.85em;">BAR 2025</div><img src='images/Publication BAR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -89,9 +89,7 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 </div>
 </div>
 
-<div style="margin-top: 15px;">
 - **Empowering High-Quality Enterprise Development through Supply Chain Finance: Mechanisms and Implementation Pathways** <br>*Core Researcher (PI: Dr. Jun BU) | NSSF (Youth), No. 23CGL010 | Sep 2023 – Present*
-</div>
 
 <span class='anchor' id='honors-and-awards'></span>
 <h1 style="margin-top: 40px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">🏵️ Honors and Awards</h1>
