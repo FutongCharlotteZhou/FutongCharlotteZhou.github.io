@@ -10,10 +10,39 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
-<!-- For all browsers -->
 <link rel="stylesheet" href="assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
 <head>
   <base target="_blank">
+  
+  <style>
+    /* 1. 导航栏鼠标悬停时的文字颜色 */
+    .masthead__menu-item a:hover {
+      color: #003a8c !important;
+      text-decoration: none;
+    }
+
+    /* 2. 鼠标悬停时出现的下划线条（将灰色改为专业蓝） */
+    .masthead__menu-item:hover {
+      border-bottom: 3px solid #003a8c !important;
+    }
+
+    /* 3. 当前激活页面（选定状态）的样式 */
+    .masthead__menu-item--active {
+      border-bottom: 3px solid #003a8c !important;
+    }
+
+    .masthead__menu-item--active a {
+      color: #003a8c !important;
+      font-weight: bold;
+    }
+
+    /* 4. 微调导航项之间的间距，增加呼吸感 */
+    .masthead__menu-item {
+      margin-left: 1.5rem;
+      transition: all 0.2s ease-in-out;
+    }
+  </style>
 </head>
