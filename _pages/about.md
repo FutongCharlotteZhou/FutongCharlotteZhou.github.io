@@ -122,8 +122,8 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
                   transform="rotate(-90 50 50)" />
           <text x="50" y="55" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">8.0</text>
         </svg>
-        <div style="margin-top: 10px;">
-          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/IELTS_logo.svg/200px-IELTS_logo.svg.png" alt="IELTS" style="width: 70px;">
+        <div style="margin-top: 12px; height: 35px; display: flex; align-items: center; justify-content: center;">
+          <img src="images/IELTS.png" alt="IELTS" style="width: 75px;">
         </div>
       </div>
 
@@ -135,8 +135,8 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
                   transform="rotate(-90 50 50)" />
           <text x="50" y="55" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">615</text>
         </svg>
-        <div style="margin-top: 10px;">
-          <img src="images/GMAT_Focus.png" alt="GMAT Focus" style="width: 85px;">
+        <div style="margin-top: 12px; height: 35px; display: flex; align-items: center; justify-content: center;">
+          <img src="images/GMAT Focus Logo.png" alt="GMAT Focus" style="width: 90px;">
         </div>
       </div>
 
