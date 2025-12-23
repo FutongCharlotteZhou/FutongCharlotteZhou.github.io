@@ -21,21 +21,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 
-<div style="display: flex; align-items: flex-start; margin-top: 30px; margin-bottom: 35px;">
+<div style="display: flex; align-items: flex-start; margin-top: 10px; margin-bottom: 35px;">
   <div style="flex: 0 0 80px; margin-right: 25px;">
     <img src='images/logo round 透明.png' alt="SWUFE" style="width: 80px; height: 80px; object-fit: contain;">
   </div>
   <div style="flex: 1;">
-    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 5px;">
       <span style="font-weight: bold; font-size: 1.15em; color: #003a8c;">Southwestern University of Finance & Economics</span>
       <span style="color: #888; font-size: 0.9em; font-style: italic;">Chengdu, Sichuan</span>
     </div>
     <div style="color: #444; font-size: 1em; margin-bottom: 4px;">
-      Master of Management <span style="color: #ccc; margin: 0 10px;">|</span> <span style="color: #666;">GPA: 4.19 / 5.00</span>
+      Master of Management in **Corporate Management** <span style="color: #ccc; margin: 0 10px;">|</span> <span style="color: #666;">GPA: 4.19 / 5.00</span>
     </div>
     <div style="color: #888; font-size: 0.9em;">
       Sept 2023 — June 2026 (Expected)
@@ -50,12 +49,12 @@ My research interest includes neural machine translation and computer vision. I 
     <img src='images/东北财经大学圆形校徽.jpg' alt="DUFE" style="width: 80px; height: 80px; object-fit: contain;">
   </div>
   <div style="flex: 1;">
-    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 5px;">
       <span style="font-weight: bold; font-size: 1.15em; color: #003a8c;">Dongbei University of Finance & Economics</span>
       <span style="color: #888; font-size: 0.9em; font-style: italic;">Dalian, Liaoning</span>
     </div>
     <div style="color: #444; font-size: 1em; margin-bottom: 4px;">
-      Bachelor of Management <span style="color: #ccc; margin: 0 10px;">|</span> <span style="color: #666;">GPA: 4.20 / 5.00</span>
+      Bachelor of Management in **Accounting** <span style="color: #ccc; margin: 0 10px;">|</span> <span style="color: #666;">GPA: 4.20 / 5.00</span>
     </div>
     <div style="color: #888; font-size: 0.9em;">
       Sept 2019 — June 2023
@@ -66,7 +65,7 @@ My research interest includes neural machine translation and computer vision. I 
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div style="position: relative;"><div class="badge" style="position: absolute; top: 0; left: 0; background-color: rgba(0, 58, 140, 0.85); color: white; padding: 2px 10px; z-index: 10; border-radius: 2px 0 5px 0; font-size: 0.85em;">BAR 2025</div><img src='images/Publication BAR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box' style="margin-top: 10px;"><div class='paper-box-image'><div style="position: relative;"><div class="badge" style="position: absolute; top: 0; left: 0; background-color: rgba(0, 58, 140, 0.85); color: white; padding: 2px 10px; z-index: 10; border-radius: 2px 0 5px 0; font-size: 0.85em;">BAR 2025</div><img src='images/Publication BAR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OK, Let’s Talk. Firms’ Willingness to Communicate with Retail Investors: Evidence from Controlling Shareholders’ Equity Pledging](https://doi.org/10.1016/j.bar.2025.101645)
@@ -90,38 +89,40 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 </div>
 </div>
 
+<div style="margin-top: 10px;">
 - **Empowering High-Quality Enterprise Development through Supply Chain Finance: Mechanisms and Implementation Pathways**
   <br />*Core Researcher (PI: Dr. Jun BU) | NSSF (Youth), No. 23CGL010 | Sep 2023 – Present*
+</div>
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🏵️ Honors and Awards
 
-<h3 style="margin-top: 20px; color: #003a8c;">At SWUFE</h3>
+<h3 style="margin-top: 10px; color: #003a8c;">At SWUFE</h3>
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
   <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2026.06</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">Outstanding Graduate</span>
-    <span style="flex: 2; text-align: right; color: #666;">Top 5%</span>
+    <span style="flex: 2; text-align: right; color: #666; white-space: nowrap;">Top 5%</span>
   </li>
   <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2025.10</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">National Scholarship</span>
-    <span style="flex: 2; text-align: right; color: #d4380d; font-weight: bold;">Top Honor</span>
+    <span style="flex: 2; text-align: right; color: #d4380d; font-weight: bold; white-space: nowrap;">Top Honor</span>
   </li>
   <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2025.10</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">Merit Student</span>
-    <span style="flex: 2; text-align: right; color: #666;">Top 1%</span>
+    <span style="flex: 2; text-align: right; color: #666; white-space: nowrap;">Top 1%</span>
   </li>
   <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2024 - 2025</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">Outstanding Graduate Scholarship</span>
-    <span style="flex: 2; text-align: right; color: #666;">2-Sem. Recipient</span>
+    <span style="flex: 2; text-align: right; color: #666; white-space: nowrap;">2-Sem. Recipient</span>
   </li>
   <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2023 - 2025</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">Graduate Study Scholarship</span>
-    <span style="flex: 2; text-align: right; color: #666;">3-Year Recipient</span>
+    <span style="flex: 2; text-align: right; color: #666; white-space: nowrap;">3-Year Recipient</span>
   </li>
 </ul>
 
@@ -132,12 +133,12 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
   <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2023.06</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">Outstanding Graduate</span>
-    <span style="flex: 2; text-align: right; color: #666;">Top 5%</span>
+    <span style="flex: 2; text-align: right; color: #666; white-space: nowrap;">Top 5%</span>
   </li>
   <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2019 - 2023</span>
     <span style="flex: 4; text-align: center; font-weight: bold;">Outstanding Student Scholarship</span>
-    <span style="flex: 2; text-align: right; color: #666;">4-Year Recipient</span>
+    <span style="flex: 2; text-align: right; color: #666; white-space: nowrap;">4-Year Recipient</span>
   </li>
 </ul>
 
