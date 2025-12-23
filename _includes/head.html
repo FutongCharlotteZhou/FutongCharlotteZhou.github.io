@@ -19,31 +19,46 @@
   
   <style>
   /* ============================================================
-     侧边栏 (Sidebar) 麦肯锡风格：高冷、严谨、专业
+     侧边栏 (Sidebar) 精确微调：统一比例与间距
      ============================================================ */
 
-  /* 解决问题 2：让图标看起来像“精致的小 SVG” */
+  /* 1. 字体大小对齐：让格言的大小与学校名称一致 */
+  /* 2. 块间距均匀：统一设置底部边距为 25px */
+  .sidebar .author__content .author__bio {
+    font-size: 1.1em !important; /* 对齐学校名称的大小 */
+    margin-bottom: 25px !important; /* 块与块之间的均匀间距 */
+    color: #333 !important;
+    line-height: 1.4;
+  }
+
+  /* 3. 社交列表块：对齐上方的均匀间距，且不加横线 */
+  .author__urls-wrapper {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    border-top: none !important; /* 严格不加横线 */
+  }
+
+  /* 解决问题 2：让图标看起来像“精致的小 SVG” (保留原有逻辑) */
   .author__urls svg {
-    /* 将厚重的实心感转化为轻盈的线条感 */
     fill: #003a8c !important; /* 统一使用您的专业蓝 */
-    width: 16px !important;    /* 缩小图标尺寸，图标越小越显得高级 */
+    width: 16px !important;
     height: 16px !important;
-    margin-right: 12px !important; /* 增加图标与文字的距离 */
-    vertical-align: -3px; /* 微调对齐，确保图标在文字的中垂线上 */
-    opacity: 0.85; /* 轻微透明，增加通透感 */
+    margin-right: 12px !important;
+    vertical-align: -3px;
+    opacity: 0.85;
     transition: all 0.2s ease-in-out;
   }
 
-  /* 鼠标悬停时的动态反馈 */
+  /* 鼠标悬停时的动态反馈 (保留原有逻辑) */
   .author__urls li:hover svg {
     opacity: 1;
-    transform: scale(1.15); /* 图标轻微放大 */
+    transform: scale(1.15);
     filter: drop-shadow(0 0 2px rgba(0,58,140,0.2));
   }
 
   /* 优化侧边栏文字排列 */
   .author__urls li {
-    margin-bottom: 14px !important; /* 增加行间距，条分缕析 */
+    margin-bottom: 14px !important;
     font-size: 0.9em;
     color: #555 !important;
   }
