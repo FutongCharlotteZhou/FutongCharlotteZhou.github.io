@@ -18,17 +18,58 @@
   <base target="_blank">
   
   <style>
-    /* 仅改变鼠标悬停时的文字颜色为专业蓝 (#003a8c) */
-    /* 主题默认的灰色阴影条将通过 main.css 自动保留 */
-    .masthead__menu-item a:hover {
-      color: #003a8c !important;
-      text-decoration: none;
-    }
+  /* ============================================================
+     侧边栏 (Sidebar) 麦肯锡风格：高冷、严谨、专业
+     ============================================================ */
+  
+  /* 解决问题 1：拉开格言 (Nec Glacie, Nec Igne) 与下方列表的间距 */
+  .author__urls-wrapper {
+    margin-top: 40px !important; /* 增加显著的呼吸感 */
+    border-top: 1px solid #f2f3f3; /* 极细的分割线，增加精致度 */
+    padding-top: 25px;
+  }
 
-    /* 同时让当前激活页面（选中状态）的文字也显示为蓝色 */
-    .masthead__menu-item--active a {
-      color: #003a8c !important;
-      font-weight: bold;
-    }
-  </style>
+  /* 解决问题 2：让图标看起来像“精致的小 SVG” */
+  .author__urls svg {
+    /* 将厚重的实心感转化为轻盈的线条感 */
+    fill: #003a8c !important; /* 统一使用您的专业蓝 */
+    width: 16px !important;    /* 缩小图标尺寸，图标越小越显得高级 */
+    height: 16px !important;
+    margin-right: 12px !important; /* 增加图标与文字的距离 */
+    vertical-align: -3px; /* 微调对齐，确保图标在文字的中垂线上 */
+    opacity: 0.85; /* 轻微透明，增加通透感 */
+    transition: all 0.2s ease-in-out;
+  }
+
+  /* 鼠标悬停时的动态反馈 */
+  .author__urls li:hover svg {
+    opacity: 1;
+    transform: scale(1.15); /* 图标轻微放大 */
+    filter: drop-shadow(0 0 2px rgba(0,58,140,0.2));
+  }
+
+  /* 优化侧边栏文字排列 */
+  .author__urls li {
+    margin-bottom: 14px !important; /* 增加行间距，条分缕析 */
+    font-size: 0.9em;
+    color: #555 !important;
+  }
+
+  .author__urls li a {
+    text-decoration: none !important;
+    transition: color 0.2s;
+  }
+
+  .author__urls li a:hover {
+    color: #003a8c !important; /* 悬停文字同步变蓝 */
+  }
+
+  /* 格言排版微调 */
+  .sidebar .author__content .author__bio {
+    margin: 15px 0;
+    color: #333;
+    font-weight: 500;
+    line-height: 1.5;
+  }
+</style>
 </head>
