@@ -24,8 +24,38 @@ My research interest includes neural machine translation and computer vision. I 
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+<div style="margin-top: 20px;">
+  <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 5px;">
+    <span style="flex: 2; text-align: left; font-weight: bold; font-size: 1.1em; color: #003a8c;">Southwestern University of Finance & Economics</span>
+    <span style="flex: 1; text-align: right; color: #666; font-style: italic;">Chengdu, Sichuan</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px;">
+    <span style="flex: 2; text-align: left; font-style: italic;">Master of Management</span>
+    <span style="flex: 1; text-align: center; color: #666; font-weight: 500;">GPA: 4.19/5.00</span>
+    <span style="flex: 1; text-align: right; color: #666;">Sept 2023 - Jun 2026</span>
+  </div>
+  <div style="padding-left: 20px; color: #444; font-size: 0.95em;">
+    <strong>Coursework</strong>: Western Enterprise Research (99), Operation Management (97), Intermediate Management (93)
+  </div>
+</div>
+
+<hr style="border: 0; border-top: 1px solid #f0f0f0; margin: 25px 0;">
+
+<div style="margin-top: 10px;">
+  <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 5px;">
+    <span style="flex: 2; text-align: left; font-weight: bold; font-size: 1.1em; color: #003a8c;">Dongbei University of Finance & Economics</span>
+    <span style="flex: 1; text-align: right; color: #666; font-style: italic;">Dalian, Liaoning</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px;">
+    <span style="flex: 2; text-align: left; font-style: italic;">Bachelor of Management</span>
+    <span style="flex: 1; text-align: center; color: #666; font-weight: 500;">GPA: 4.20/5.00</span>
+    <span style="flex: 1; text-align: right; color: #666;">Sept 2019 - Jun 2023</span>
+  </div>
+  <div style="padding-left: 20px; color: #444; font-size: 0.95em;">
+    <strong>Coursework</strong>: Advanced Management Accounting (98), Ethics (97), Capital Market and Accounting (95)
+  </div>
+</div>
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications
