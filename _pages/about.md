@@ -22,14 +22,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 <span class='anchor' id='educations'></span>
-<h1 style="margin-top: 40px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">📖 Educations</h1>
+# 📖 Educations
 
-<div style="display: flex; align-items: flex-start; margin-top: 0; margin-bottom: 35px;">
+<div style="display: flex; align-items: flex-start; margin-top: 10px; margin-bottom: 35px;">
   <div style="flex: 0 0 80px; margin-right: 25px;">
     <img src='images/logo round 透明.png' alt="SWUFE" style="width: 80px; height: 80px; object-fit: contain;">
   </div>
   <div style="flex: 1;">
-    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 5px;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
       <span style="font-weight: bold; font-size: 1.15em; color: #003a8c;">Southwestern University of Finance & Economics</span>
       <span style="color: #888; font-size: 0.9em; font-style: italic;">Chengdu, Sichuan</span>
     </div>
@@ -63,9 +63,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 <span class='anchor' id='publications'></span>
-<h1 style="margin-top: 40px; margin-bottom: 5px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">📝 Publications</h1>
+# 📝 Publications
 
-<div class='paper-box' style="margin-top: 0;"><div class='paper-box-image'><div style="position: relative;"><div class="badge" style="position: absolute; top: 0; left: 0; background-color: rgba(0, 58, 140, 0.85); color: white; padding: 2px 10px; z-index: 10; border-radius: 2px 0 5px 0; font-size: 0.85em;">BAR 2025</div><img src='images/Publication BAR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box' style="margin-top: 10px;"><div class='paper-box-image'><div style="position: relative;"><div class="badge" style="position: absolute; top: 0; left: 0; background-color: rgba(0, 58, 140, 0.85); color: white; padding: 2px 10px; z-index: 10; border-radius: 2px 0 5px 0; font-size: 0.85em;">BAR 2025</div><img src='images/Publication BAR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OK, Let’s Talk. Firms’ Willingness to Communicate with Retail Investors: Evidence from Controlling Shareholders’ Equity Pledging](https://doi.org/10.1016/j.bar.2025.101645)
@@ -92,7 +92,7 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
 - **Empowering High-Quality Enterprise Development through Supply Chain Finance: Mechanisms and Implementation Pathways** <br>*Core Researcher (PI: Dr. Jun BU) | NSSF (Youth), No. 23CGL010 | Sep 2023 – Present*
 
 <span class='anchor' id='honors-and-awards'></span>
-<h1 style="margin-top: 40px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">🏵️ Honors and Awards</h1>
+# 🏵️ Honors and Awards
 
 <h3 style="margin-top: 10px; color: #003a8c;">At SWUFE</h3>
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
@@ -108,97 +108,4 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
   </li>
   <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
     <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2025.10</span>
-    <span style="flex: 4; text-align: center; font-weight: bold;">Merit Student</span>
-    <span style="flex: 2; text-align: right; color: #666; white-space: nowrap;">Top 1%</span>
-  </li>
-  <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
-    <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2024 - 2025</span>
-    <span style="flex: 4; text-align: center; font-weight: bold;">Outstanding Graduate Scholarship</span>
-    <span style="flex: 2; text-align: right; color: #666; white-space: nowrap;">2-Sem. Recipient</span>
-  </li>
-  <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
-    <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2023 - 2025</span>
-    <span style="flex: 4; text-align: center; font-weight: bold;">Graduate Study Scholarship</span>
-    <span style="flex: 2; text-align: right; color: #666; white-space: nowrap;">3-Year Recipient</span>
-  </li>
-</ul>
-
-<hr style="border: 0; border-top: 1px solid #f0f0f0; margin: 25px 0;">
-
-<h3 style="margin-top: 10px; color: #003a8c;">At DUFE</h3>
-<ul style="list-style-type: none; padding-left: 0;">
-  <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
-    <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2023.06</span>
-    <span style="flex: 4; text-align: center; font-weight: bold;">Outstanding Graduate</span>
-    <span style="flex: 2; text-align: right; color: #666; white-space: nowrap;">Top 5%</span>
-  </li>
-  <li style="display: flex; justify-content: space-between; margin-bottom: 12px;">
-    <span style="flex: 1.5; text-align: left; font-style: italic; color: #666;">2019 - 2023</span>
-    <span style="flex: 4; text-align: center; font-weight: bold;">Outstanding Student Scholarship</span>
-    <span style="flex: 2; text-align: right; color: #666; white-space: nowrap;">4-Year Recipient</span>
-  </li>
-</ul>
-
-<span class='anchor' id='skills-and-qualifications'></span>
-<h1 style="margin-top: 40px; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 10px;">💻 Skills and Qualifications</h1>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 10px;">
-  
-  <div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
-    <h3 style="color: #003a8c; margin-bottom: 15px; margin-top: 5px;">Standardized Tests</h3>
-    <div style="display: flex; gap: 40px; align-items: center;">
-      
-      <div style="text-align: center;">
-        <svg width="100" height="100" viewBox="0 0 100 100">
-          <circle cx="50" cy="50" r="40" stroke="#f0f0f0" stroke-width="8" fill="none" />
-          <circle cx="50" cy="50" r="40" stroke="#003a8c" stroke-width="8" fill="none" 
-                  stroke-dasharray="251.2" stroke-dashoffset="0" stroke-linecap="round"
-                  transform="rotate(-90 50 50)" />
-          <text x="50" y="55" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">8.0</text>
-        </svg>
-        <div style="margin-top: 12px; height: 35px; display: flex; align-items: center; justify-content: center;">
-          <img src="images/IELTS.png" alt="IELTS" style="width: 75px;">
-        </div>
-      </div>
-
-      <div style="text-align: center;">
-        <svg width="100" height="100" viewBox="0 0 100 100">
-          <circle cx="50" cy="50" r="40" stroke="#f0f0f0" stroke-width="8" fill="none" />
-          <circle cx="50" cy="50" r="40" stroke="#003a8c" stroke-width="8" fill="none" 
-                  stroke-dasharray="251.2" stroke-dashoffset="42.7" stroke-linecap="round"
-                  transform="rotate(-90 50 50)" />
-          <text x="50" y="55" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">615</text>
-        </svg>
-        <div style="margin-top: 12px; height: 35px; display: flex; align-items: center; justify-content: center;">
-          <img src="images/GMAT Focus Logo.png" alt="GMAT Focus" style="width: 90px;">
-        </div>
-      </div>
-
-    </div>
-  </div>
-
-  <div style="flex: 1.2; min-width: 300px;">
-    <div style="margin-bottom: 20px;">
-      <h3 style="color: #003a8c; margin-bottom: 12px; margin-top: 5px;">Research Tools</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-        <span style="background: #f8f9fa; padding: 5px 12px; border-radius: 15px; border: 1px solid #e9ecef; font-weight: 500;">Stata</span>
-        
-        <span style="background: #f8f9fa; padding: 5px 12px; border-radius: 15px; border: 1px solid #e9ecef; font-family: 'Times New Roman', serif;">
-          L<span style="text-transform: uppercase; font-size: 0.75em; vertical-align: 0.25em; margin-left: -0.36em; margin-right: -0.15em;">A</span>T<span style="text-transform: uppercase; vertical-align: -0.25em; margin-left: -0.1667em; margin-right: -0.125em;">E</span>X
-        </span>
-
-        <span style="background: #f8f9fa; padding: 5px 12px; border-radius: 15px; border: 1px solid #e9ecef; font-weight: 500;">Python</span>
-        <span style="background: #f8f9fa; padding: 5px 12px; border-radius: 15px; border: 1px solid #e9ecef; font-weight: 500;">Visio</span>
-      </div>
-    </div>
-
-    <div>
-      <h3 style="color: #003a8c; margin-bottom: 10px;">Technical Skills</h3>
-      <ul style="padding-left: 20px; line-height: 1.6; color: #444; margin-top: 5px;">
-        <li>Empirical research in corporate finance and supply chain management.</li>
-        <li>Large-scale data processing and econometric analysis (2013-2023).</li>
-      </ul>
-    </div>
-  </div>
-
-</div>
+    <span style="flex: 4; text-align: center
