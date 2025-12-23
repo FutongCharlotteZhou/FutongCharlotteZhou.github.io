@@ -118,11 +118,13 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
         <svg width="100" height="100" viewBox="0 0 100 100">
           <circle cx="50" cy="50" r="40" stroke="#f0f0f0" stroke-width="8" fill="none" />
           <circle cx="50" cy="50" r="40" stroke="#003a8c" stroke-width="8" fill="none" 
-                  stroke-dasharray="251.2" stroke-dashoffset="27.9" stroke-linecap="round"
+                  stroke-dasharray="251.2" stroke-dashoffset="0" stroke-linecap="round"
                   transform="rotate(-90 50 50)" />
           <text x="50" y="55" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">8.0</text>
         </svg>
-        <div style="margin-top: 8px; font-weight: bold; color: #666;">IELTS</div>
+        <div style="margin-top: 10px;">
+          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/IELTS_logo.svg/200px-IELTS_logo.svg.png" alt="IELTS" style="width: 70px;">
+        </div>
       </div>
 
       <div style="text-align: center;">
@@ -131,10 +133,11 @@ Jun BU, Tianlun FEI, **Futong ZHOU**
           <circle cx="50" cy="50" r="40" stroke="#003a8c" stroke-width="8" fill="none" 
                   stroke-dasharray="251.2" stroke-dashoffset="42.7" stroke-linecap="round"
                   transform="rotate(-90 50 50)" />
-          <text x="50" y="48" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">615</text>
-          <text x="50" y="65" text-anchor="middle" font-size="9" font-weight="bold" fill="#003a8c" style="text-transform: uppercase; letter-spacing: 0.5px;">Focus</text>
+          <text x="50" y="55" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">615</text>
         </svg>
-        <div style="margin-top: 8px; font-weight: bold; color: #666;">GMAT</div>
+        <div style="margin-top: 10px;">
+          <img src="images/GMAT_Focus.png" alt="GMAT Focus" style="width: 85px;">
+        </div>
       </div>
 
     </div>
